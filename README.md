@@ -1,2 +1,2 @@
 # hello-world
-I am following the guide on Github ;)
+Well I finally decided to go for the original version : Just another repository. 
